@@ -19,8 +19,7 @@ Think of them as plugins for Claude: each skill teaches Claude how to handle a s
 | Skill | Description | Install |
 |---|---|---|
 | [ai-project-setup-kit](./ai-project-setup-kit/) | Create and improve Claude Projects — auto-detects context, shows guided menu when run outside a project, starts audit immediately when run inside a project with files | [Download](./ai-project-setup-kit/ai-project-setup-kit.skill) |
-
-> More skills coming soon.
+| [prompt-improver](./prompt-improver/) | Rewrites any prompt using Anthropic's prompt engineering methodology — returns the improved prompt immediately, no commentary | [Download](./prompt-improver/prompt-improver.skill) |
 
 ---
 
