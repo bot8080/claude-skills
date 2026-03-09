@@ -54,6 +54,29 @@ Most users end up with a project that works okay at first but degrades over time
 
 ---
 
+## How to use it
+
+The skill auto-detects your context the moment it triggers — no manual setup needed.
+
+### Running inside a Claude Project (with files uploaded)
+Just say "improve my project" — the skill detects your files and starts the audit immediately.
+
+### Running inside a Claude Project (no files yet)
+The skill will prompt you to upload your knowledge base files first, then retry.
+
+### Running outside any project (general Claude chat)
+The skill shows a menu:
+
+```
+1. 🆕 Create a new Claude Project from scratch
+2. 🔧 Improve an existing Claude Project
+```
+
+- Reply **1** → skill walks you through creating everything from scratch
+- Reply **2** → skill tells you exactly how to open your project and run the audit from there
+
+---
+
 ## What it does
 
 This skill operates in two modes:

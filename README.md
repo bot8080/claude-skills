@@ -18,7 +18,7 @@ Think of them as plugins for Claude: each skill teaches Claude how to handle a s
 
 | Skill | Description | Install |
 |---|---|---|
-| [ai-project-setup-kit](./ai-project-setup-kit/) | Create and improve Claude Projects — writes project instructions and knowledge base files from scratch, or audits and improves existing ones | [Download](./ai-project-setup-kit/ai-project-setup-kit.skill) |
+| [ai-project-setup-kit](./ai-project-setup-kit/) | Create and improve Claude Projects — auto-detects context, shows guided menu when run outside a project, starts audit immediately when run inside a project with files | [Download](./ai-project-setup-kit/ai-project-setup-kit.skill) |
 
 > More skills coming soon.
 
